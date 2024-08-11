@@ -1,4 +1,4 @@
-function clockslo(){
+function Clockslo(){
 
 }
-export default clockslo;
+export default Clockslo;
