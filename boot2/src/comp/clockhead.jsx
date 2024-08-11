@@ -1,5 +1,5 @@
-function clockhhead(){
+function Clockhhead(){
 return <h1>Bharath Clock</h1>
 
 }
-export default clockhhead;
+export default Clockhhead;

@@ -1,11 +1,9 @@
-import clockslo from "./comp/clockslo";
-import clockhhead from "./comp/clockhead";
-import clocktime from "./comp/clocktime";
+import Clockslo from "./comp/clockslo";
+import Clocktime from "./comp/clocktime";
+import Clockhhead from "./comp/clockhead";
 function App(){
   return <div>
-    <clockhhead></clockhhead>
-    <clockslo></clockslo>
-    <clocktime></clocktime>
+<Clockhhead/>
   </div>
 
 }

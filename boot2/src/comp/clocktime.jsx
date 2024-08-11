@@ -1,4 +1,4 @@
-function clocktime(){
+function Clocktime(){
 
 }
-export default clocktime;
+export default Clocktime;
